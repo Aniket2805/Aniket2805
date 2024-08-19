@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
 I love creating amazing web applications that deliver exceptional user experiences. I strive for:
 
 🚀 Well-crafted web applications that combine aesthetics with functionality.<br>
